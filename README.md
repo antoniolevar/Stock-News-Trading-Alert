@@ -1,4 +1,4 @@
-Stock News Alert Project
+# Stock News Alert Project
 This project is a Python-based script that monitors stock price changes and sends alerts with relevant news articles using the Twilio API. When a stock price increases or decreases by a defined percentage threshold, the program fetches recent news related to the stock and sends alerts via SMS.
 
 Project Overview
