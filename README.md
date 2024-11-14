@@ -33,8 +33,11 @@ python stock_news_alert.py
 
 ## Script Breakdown
 STEP 1: Fetches the stock's closing price for the last two days and calculates the percentage change.
+
 STEP 2: If the price change exceeds the defined threshold, it fetches the latest news articles using the News API.
+
 STEP 3: Sends SMS alerts for each news article using Twilio.
+
 Example Output
 When the stock price change exceeds the threshold, the SMS alert includes:
 
