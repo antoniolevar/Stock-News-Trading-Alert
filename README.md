@@ -16,7 +16,7 @@ News API Key for fetching the latest news articles.
 
 Setup Instructions
 Clone or Download the Repository:
-git clone https://github.com/your-username/stock-news-alert.git
+git clone https://github.com/your-antoniolevar/stock-news-alert.git
 
 Install Required Libraries: Install requests and twilio using pip:
 pip install requests twilio
